@@ -3,7 +3,7 @@
 <body>
 
 <h1>My First Heading</h1>
-<img src="Pp biru.jpg">
+<img src="SS Qwiklabs.jpg">
 <p>My first paragraph.</p>
 
 </body>
